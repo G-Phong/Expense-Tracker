@@ -1,0 +1,3 @@
+/home/riskypete/Projects/expenses/expense_tracker/CMakeFiles/ExpenseTracker.dir
+/home/riskypete/Projects/expenses/expense_tracker/CMakeFiles/edit_cache.dir
+/home/riskypete/Projects/expenses/expense_tracker/CMakeFiles/rebuild_cache.dir
