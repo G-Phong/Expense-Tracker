@@ -127,7 +127,9 @@ void Group::settleDebts()
                             neg.second += std::abs(neg.second);
                             
                         }
-                        
+                        //Debug
+                        //std::cout << "After: " <<pos.first->getName() << ", balance: " << pos.second << std::endl;
+                        //std::cout << "After: " <<neg.first->getName() << ", balance: " << neg.second << std::endl;
                     }
                 }
                 //Floating point arithmetic with doubles! Add some tolerance!

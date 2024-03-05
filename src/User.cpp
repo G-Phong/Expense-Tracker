@@ -1,4 +1,3 @@
-
 #include "User.h"
 
 User::User(int age, std::string name) : _name(name)

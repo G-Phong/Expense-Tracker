@@ -61,3 +61,5 @@ public:
 
     virtual ~Group() = default;
 };
+
+#endif // GROUP_H

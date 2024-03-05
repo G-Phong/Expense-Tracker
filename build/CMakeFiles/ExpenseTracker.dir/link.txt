@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic CMakeFiles/ExpenseTracker.dir/src/main.cpp.o CMakeFiles/ExpenseTracker.dir/src/Account.cpp.o CMakeFiles/ExpenseTracker.dir/src/Group.cpp.o CMakeFiles/ExpenseTracker.dir/src/User.cpp.o CMakeFiles/ExpenseTracker.dir/src/Transaction.cpp.o CMakeFiles/ExpenseTracker.dir/src/MenuFunctions.cpp.o -o ExpenseTracker 

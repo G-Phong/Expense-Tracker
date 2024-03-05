@@ -523,4 +523,3 @@ void MenuFunctions::display(std::string disp, Group &group)
 
     csv_file.close();
 } */
-

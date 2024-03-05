@@ -1,5 +1,25 @@
 ## Other files:
 test
 test.cpp
-.vscode
-expense_Tracker
+
+# ignore vscode directory -> it's platform resp. IDE-specific
+.vscode/
+
+# ignore build directory
+build/
+
+#ignore the old main-file
+src/main_old.cpp
+
+#ignore .o files
+src/*.o
+
+#ignore cmake build files
+Makefile
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
+ExpenseTracker
+
+#ignore savedStates folder
+savedStates/
